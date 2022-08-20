@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=3500&pause=800&color=A70000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hi+there!;I'm+Alexandre%2C+a+coder+from+Brazil.;You+can+call+me+Alex!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=3500&pause=800&color=A70000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there!;I'm+Alexandre%2C+a+coder+from+Brazil.;You+can+call+me+Alex!" alt="Typing SVG" /></a>
 
 - 🔰 I speak english but brazillian portuguese is my mother language. I can communicate quite decently in spanish.
 - 🔭 I’m currently working on becoming a Senior Front-End Coder!
