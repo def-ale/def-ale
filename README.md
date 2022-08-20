@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://github.com/def-ale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=def-ale&show_icons=true&theme=dracula&title_color=7832ba&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=def-ale&show_icons=true&theme=dracula&title_color=7832ba&custom_title=Some+Stats+=]&include_all_commits=true&count_private=true"/>
 
 
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=def-ale&title_color=7832ba&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,6 +30,7 @@
   <a href = "mailto:alexandrefbertolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/def-ale/def-ale/blob/output/github-contribution-grid-snake.svg)
- 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </div>
