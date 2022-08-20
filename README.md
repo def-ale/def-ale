@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=3500&pause=800&color=cfcfcf&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there!;I'm+Alexandre+Ferreira%2C+a+coder+from+Brazil.;You+can+call+me+Alex!" alt="Typing thing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&pause=1000&color=f2f0f0&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!;I'm+Alexandre+Ferreira%2C+22%2C+coder+from+Brazil!;Call+me+Alex!" alt="Typing SVG" /></a>
 <div align="center">
 
   <a href="https://github.com/def-ale">
