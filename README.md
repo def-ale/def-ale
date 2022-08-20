@@ -1,9 +1,35 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=3500&pause=800&color=A70000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there!;I'm+Alexandre%2C+a+coder+from+Brazil.;You+can+call+me+Alex!" alt="Typing thing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=3500&pause=800&color=cfcfcf&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there!;I'm+Alexandre+Ferreira%2C+a+coder+from+Brazil.;You+can+call+me+Alex!" alt="Typing thing" /></a>
+<div align="center">
 
-- 🔰 I speak english but brazillian portuguese is my mother language. I can communicate quite decently in spanish.
-- 🔭 I’m currently working on becoming a Senior Front-End Coder!
-- 🌱 I’m currently learning Front-End stuff!
-- 👯 I'd be excited to collaborate on any projects that Im capable of!
-- 💬 Ask me about anything you wanna know! I'll be glad to answer.
-- 📫 How to reach me: alexandrefbertolin@gmail.com
-- 😄 Pronouns: he/his. I am 22 years old.
+  <a href="https://github.com/def-ale">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=def-ale&show_icons=true&theme=dracula&title_color=7832ba&include_all_commits=true&count_private=true"/>
+
+
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=def-ale&title_color=7832ba&layout=compact&langs_count=7&theme=dracula"/>
+  -->
+
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--img align="center" alt="ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"-->
+  <!--img align="center" alt="ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
+  <img align="center" alt="ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--img align="center" alt="ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
+  <img align="right" alt="ale-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1010446277068197971/1010451481499025428/aweae.png">
+</div>
+  
+  ##
+ 
+<div> 
+  <!--<!a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.instagram.com/alxnd_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Ydj3yz8qFb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alexandrefbertolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
